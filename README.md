@@ -1,18 +1,18 @@
 # Ricardo Silva
 
-**Computer Systems Engineering student | Process & Systems Optimization**
+**Computer Systems Engineering | Process & Systems Optimization**
 
-I am a Computer Systems Engineering student at **IPCA**, with a focus on using technology to improve **people, processes and organizational efficiency**.
+Focus on using technology to improve **people, processes and organizational efficiency**.
 
 My main interest is not technology for its own sake, but how systems can be designed to make work **simpler, more structured and more efficient**.
 
 ## What I work on
 
-- **Process optimization** — identifying inefficiencies and designing better workflows.
-- **People & organization** — improving how teams interact with processes, information and systems.
-- **Business systems** — developing solutions that adapt technology to real operational needs.
-- **Automation** — reducing repetitive work and improving productivity.
-- **Documentation** — creating clear processes, instructions and user-friendly documentation.
+- **Process optimization** - identifying inefficiencies and designing better workflows.
+- **People & organization** - improving how teams interact with processes, information and systems.
+- **Business systems** - developing solutions that adapt technology to real operational needs.
+- **Automation** - reducing repetitive work and improving productivity.
+- **Documentation** - creating clear processes, instructions and user-friendly documentation.
 
 ## Current Projects
 
@@ -38,18 +38,6 @@ The project aims to:
 ## Technology
 
 I use software development as a tool to solve operational and organizational problems.
-
-**Languages & Development**
-
-`Java` `JavaScript` `TypeScript` `Python` `SQL`
-
-**Web & Systems**
-
-`React` `Node.js` `Next.js` `PostgreSQL`
-
-**Tools**
-
-`Git` `GitHub` `Figma` `VS Code`
 
 ## Education
 
