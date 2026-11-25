@@ -15,15 +15,3 @@ I'm building a path in **business and systems analysis**: understanding how a bu
 - **Software:** enough engineering to build what's missing.
 
 ![Skills](https://skillicons.dev/icons?i=ts,react,supabase,postgres,python,git)
-
-## Projects
-
-| Project | What it is |
-|---|---|
-| [**Nossia**](https://nossia.vercel.app) | Live web app for couples to plan dates, keep memories and organise trips. Built as a two-person team. |
-| [**LESI Assessment Calendar**](https://lesi-ricardo.vercel.app) | Every test and assignment of my degree in one page, with a grade calculator and a self-updating calendar subscription. |
-
-## Currently
-
-- Learning SQL and Power BI, and how retail pricing and stock optimisation work.
-- Scrum Master of a four-person team on a university project.
