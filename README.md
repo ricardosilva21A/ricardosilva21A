@@ -1,52 +1,29 @@
 # Ricardo Silva
 
-**Computer Systems Engineering | Process & Systems Optimization**
+**Procurement & SAP · Computer Systems Engineering student · Guimarães, Portugal**
 
-Focus on using technology to improve **people, processes and organizational efficiency**.
+I run purchasing and maintenance services in SAP at a textile manufacturer and study Computer Systems Engineering at UPCA (expected 2028).
+I'm building a path in **business and systems analysis**: understanding how a business really works, mapping its processes and turning them into systems people actually use.
 
-My main interest is not technology for its own sake, but how systems can be designed to make work **simpler, more structured and more efficient**.
+[Portfolio](https://refds.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ricardofsilva0/) · [Email](mailto:refds1505@gmail.com)
 
-## What I work on
+## What I bring
 
-- **Process optimization** - identifying inefficiencies and designing better workflows.
-- **People & organization** - improving how teams interact with processes, information and systems.
-- **Business systems** - developing solutions that adapt technology to real operational needs.
-- **Automation** - reducing repetitive work and improving productivity.
-- **Documentation** - creating clear processes, instructions and user-friendly documentation.
+- **Business systems:** SAP (purchasing), ManWinWin (maintenance), INTEX, Excel and Power Query.
+- **Procurement & operations:** around 1,500 purchase orders and 1,500+ invoices handled in SAP, plus suppliers, contracts and inventory.
+- **Analysis:** requirements, BPMN, process improvement, SQL and data modelling.
+- **Software:** enough engineering to build what's missing.
 
-## Current Projects
+![Skills](https://skillicons.dev/icons?i=ts,react,supabase,postgres,python,git)
 
-### Orthopedic X-Ray Assistance
+## Projects
 
-Working on a system designed to assist **orthopedic doctors** in identifying the correct measurement/ray in X-ray examinations and automatically calculating the required values.
+| Project | What it is |
+|---|---|
+| [**Nossia**](https://nossia.vercel.app) | Live web app for couples to plan dates, keep memories and organise trips. Built as a two-person team. |
+| [**LESI Assessment Calendar**](https://lesi-ricardo.vercel.app) | Every test and assignment of my degree in one page, with a grade calculator and a self-updating calendar subscription. |
 
-The objective is to reduce manual work, improve consistency and **increase productivity in the clinical workflow**.
+## Currently
 
-### Textile ERP
-
-Working on an **ERP solution for the textile industry**, focused on making operational processes more accessible and user-friendly.
-
-The project aims to:
-
-- simplify day-to-day tasks;
-- make workflows easier to understand;
-- improve the user experience;
-- provide **clear documentation and manuals for each task**;
-- standardize how processes are performed;
-- reduce dependency on informal knowledge.
-
-## Technology
-
-I use software development as a tool to solve operational and organizational problems.
-
-## Education
-
-**Instituto Politécnico do Cávado e do Ave (IPCA)**  
-
-## Interests
-
-Process improvement · Business systems · Automation · Information systems · Technology · Data · Management
-
----
-
-**Interested in building systems that make people and processes work better.**
+- Learning SQL and Power BI, and how retail pricing and stock optimisation work.
+- Scrum Master of a four-person team on a university project.
